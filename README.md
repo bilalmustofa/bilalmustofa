@@ -87,18 +87,6 @@ Hello! I'm **Bilal Mustofa**, an aspiring Full-Stack Developer and Information S
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bilalmustofa/bilalmustofa/output/github-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
-
-</div>
-
----
-
 <!-- ===================== CURRENT FOCUS ===================== -->
 
 ## 🎯 Current Focus
